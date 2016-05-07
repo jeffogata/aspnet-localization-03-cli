@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Hello">
+    <value>Hola</value>
+  </data>
+  <data name="The Current Date">
+    <value>La Fecha Actual</value>
+  </data>
+  <data name="A Formatted Number">
+    <value>Un Número con Formato</value>
+  </data>
+  <data name="A Currency Value">
+    <value>Un Valor de la Moneda</value>
+  </data>
+</root>

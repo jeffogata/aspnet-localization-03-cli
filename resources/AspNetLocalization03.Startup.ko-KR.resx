@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Hello">
+    <value>안녕하세요</value>
+  </data>
+  <data name="The Current Date">
+    <value>현재 날짜</value>
+  </data>
+  <data name="A Formatted Number">
+    <value>서식이 지정 된 숫자</value>
+  </data>
+  <data name="A Currency Value">
+    <value>통화 값</value>
+  </data>
+</root>
